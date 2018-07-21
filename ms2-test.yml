@@ -1,0 +1,17 @@
+# Training Hyperparams --------------------------------------
+learning_rate_schedule:
+    init: 3483033
+
+momentum_schedule:
+    2: 34300.9
+    3: 43730.9
+
+layer_config:
+    0:
+        layer_type: InputLayerXXX
+
+    1:
+        layer_type: Conv2DLayer
+        filter_size: [45454,4547]
+    2:
+        layer_type: Conv2DLayerYYYYY
