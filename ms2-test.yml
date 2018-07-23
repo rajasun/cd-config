@@ -8,7 +8,7 @@ momentum_schedule:
 
 layer_config:
     0:
-        layer_type: InputLayerXXX
+        layer_type: ${ms2.url}
 
     1:
         layer_type: Conv2DLayer
