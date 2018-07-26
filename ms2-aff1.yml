@@ -3,8 +3,8 @@ learning_rate_schedule:
     init: 3483033
 
 momentum_schedule:
-    2: 34300.9
-    3: 43730.9
+    1: 111.9
+    2: 2222.9
 
 layer_config:
     0:
@@ -14,4 +14,4 @@ layer_config:
         layer_type: Conv2DLayer
         filter_size: [45454,4547]
     2:
-        layer_type: ms2-test
+        layer_type: ms2-aff1-test
