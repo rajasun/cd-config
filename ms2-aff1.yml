@@ -14,4 +14,4 @@ layer_config:
         layer_type: Conv2DLayer
         filter_size: [45454,4547]
     2:
-        layer_type: ms2-aff1-test
+        layer_type: ms2-aff1
